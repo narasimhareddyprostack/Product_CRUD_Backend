@@ -9,7 +9,7 @@ npm install express mongoose cors dotenv
 
 DB Design
 ---------
-Database -> Product-CRUD -> mongodb://127.0.0.1:27017/big-basket
+Database -> Product-CRUD -> mongodb://127.0.0.1:27017/prod-crud
 Table -> product
 fields -> name:string ,
 		image:string ,
